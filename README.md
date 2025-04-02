@@ -29,4 +29,4 @@
 
 ## **Conclusion**
  * The Watermark Remover Python package is a powerful tool for efficiently removing watermarks from images. Whether you’re a designer, researcher, or developer, this package provides a simple yet effective solution to clean images while preserving their quality.
- * If you find this tool useful, consider contributing to its development or sharing your feedback to improve its capabilities. 🚀
+ * If you find this tool useful, consider contributing to its development or sharing your feedback to improve its capabilities.

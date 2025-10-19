@@ -1,6 +1,6 @@
 ## **Overview**
 * Watermarking is widely used for branding, copyright protection, and authentication of digital images.
-*  However, in certain cases, users may need to remove watermarks from images for legitimate reasons, such as restoring original content, repurposing media, or processing images for analysis.
+* However, in certain cases, users may need to remove watermarks from images for legitimate reasons, such as restoring original content, repurposing media, or processing images for analysis.
 * The Watermark Remover Python package provides an efficient and automated way to remove watermarks from images using advanced image processing techniques. Designed for ease of use, it offers high-quality results while preserving the integrity of the original image.
 
 ## **Purpose and Use Cases**
